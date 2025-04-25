@@ -1,4 +1,7 @@
-# Reportes
+# Reportes PBI Análisis Migratorio
+## Código M
+<details>
+<summary>Tratamiento de datos y creación de columnas previas a la carga.</summary>
 
 ```python
 let
@@ -86,3 +89,4 @@ let
 in
     EtiquetaSatisfaccion
 ```
+</details>
