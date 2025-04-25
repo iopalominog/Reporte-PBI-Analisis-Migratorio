@@ -1,7 +1,8 @@
 # Reportes PBI Análisis Migratorio
 ## Código M
-<details>
-<summary>Tratamiento de datos y creación de columnas previas a la carga.</summary>
+Tratamiento de datos y creación de columnas previas a la carga.
+<details>    
+<summary>Estructura del código.</summary>
 
 ```python
 let
