@@ -1,7 +1,7 @@
 # Reporte PBI Análisis Migratorio
 Este reporte permite la identificación de los destinos migratorios con mayor participación porcentual o elección correspondiente a cada año. Así mismo, brinda el detalle de las profesiones y ocupaciones que migrán. Por otro lado, se tiene la satisfacción de los migrantes en los países destino.  
 <div align="center">
-<img src="https://github.com/user-attachments/assets/ed22f1fe-b26a-4f56-9f81-5ede23f5682a" width="50%" alt="Descripción">
+<img src="https://github.com/user-attachments/assets/c3a4b7c1-b9c5-465b-a4f5-252870f59a8f" width="50%" alt="Descripción">
 </div>
 
 ## Código M
