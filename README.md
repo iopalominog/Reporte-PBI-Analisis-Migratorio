@@ -1,4 +1,6 @@
 # Reportes PBI Análisis Migratorio
+![image](https://github.com/user-attachments/assets/ed22f1fe-b26a-4f56-9f81-5ede23f5682a)
+
 ## Código M
 Tratamiento de datos y creación de columnas previas a la carga.
 <details>    
