@@ -1,6 +1,6 @@
 # Reportes
 
-´´´
+```powerquery
 let
     Origen = Csv.Document(Web.Contents("https://raw.githubusercontent.com/iopalominog/Reportes/refs/heads/main/dataset_migraciones.csv"),[Delimiter=",", Columns=33, Encoding=65001, QuoteStyle=QuoteStyle.None]),
     
@@ -85,4 +85,4 @@ let
         )
 in
     EtiquetaSatisfaccion
-´´´
+```
